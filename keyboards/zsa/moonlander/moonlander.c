@@ -29,6 +29,8 @@
 #     include "defaults.h"
 #endif
 
+#     include "modules/zsa/defaults/defaults.h"
+
 keyboard_config_t keyboard_config;
 
 bool mcp23018_leds[3] = {0, 0, 0};

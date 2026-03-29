@@ -75,6 +75,7 @@ CMakeLists.txt
 .vscode/launch.json
 .vscode/tasks.json
 .vscode/temp.sql
+.vscode
 tags
 
 # Ignore image/font files
@@ -133,3 +134,5 @@ via*.json
 !/keyboards/zsa/**/keymaps/default/**
 !/keyboards/zsa/**/keymaps/oryx
 !/keyboards/zsa/**/keymaps/oryx/**
+!/keyboards/zsa/**/keymaps/nolanderc
+!/keyboards/zsa/**/keymaps/nolanderc/**
